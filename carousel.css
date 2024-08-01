@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#carousel{
+    width: 1200px;
+    height: 500px;
+    margin: 10px 85px 20px;
+}
+img{
+    width: 100%;
+    height:495px ;
+}
+button{
+    transform: translateX(525px);
+}
